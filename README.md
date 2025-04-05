@@ -37,5 +37,5 @@ Este projeto está sendo desenvolvido como parte do Projeto de Extensão do 2° 
     - [LinkedIn](https://www.linkedin.com/in/beatriz-gadioli-870245343/)
     - [GitHub](https://github.com/BiaGadioli)
 - Letícia Moura
-    - LinkedIn
-    - GitHub
+    - [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-moura-83364b324/)
+    - [GitHub](https://github.com/letmouram)
