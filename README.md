@@ -9,6 +9,7 @@ Este projeto está sendo desenvolvido como parte do Projeto de Extensão do 2° 
 ## Documentação
 - [Ata das reuniões](https://docs.google.com/document/d/1_ZCmPI70XSO4YOzg3NjfftNfsfbXj9Vk51qXqqoinhY/edit?tab=t.0)
 - [Projeto do Figma](https://www.figma.com/design/RQlfgx2TLuDEVz2y57TZXt/Projeto-de-Extens%C3%A3o?node-id=0-1&p=f)
+- [Trello](https://trello.com/b/zRzz2r6N/projeto-extensionista-jampa-360)
 
 ## Linguagens utilizadas
 - HTML;
