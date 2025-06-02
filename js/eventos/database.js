@@ -109,7 +109,7 @@ calendario.adicionarEvento(new Classes.Evento({
     local: "Diversos locais",
     hora: "A partir das 19h",
     preco: "Evento gratuito",
-    imagem: "../doc-imagens/eventos-samba.jpg"
+    imagem: "../doc-imagens/eventos-natal.jpg"
 }), "anual", "Dezembro")
 
 calendario.adicionarEvento(new Classes.Evento({
@@ -119,7 +119,7 @@ calendario.adicionarEvento(new Classes.Evento({
     local: "Praças, centros culturais e bares com samba",
     hora: "A partir das 16h",
     preco: "Evento gratuito",
-    imagem: "../doc-imagens/eventos-natal.jpg"
+    imagem: "../doc-imagens/eventos-samba.jpg"
 }), "anual", "Dezembro")
 
 export {calendario}
