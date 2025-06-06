@@ -4,7 +4,7 @@ O objetivo deste site é reunir tudo que a cidade tem a oferecer em um só lugar
 Também encontrará informações e fatos sobre a cidade em si. Como a sua história, por exemplo.<br>
 Este projeto está sendo desenvolvido como parte do Projeto de Extensão do 2° semestre dos cursos de Ciência da Computação e Sistemas para Internet do Centro Universitário UNIESP.
 
-![Screenshot da página inicial do site](./doc-imagens/paginainicial_screenshot.png)
+![Screenshot da página inicial do site](./doc-imagens/jampa360.jpeg)
 
 ## Documentação
 - [Ata das reuniões](https://docs.google.com/document/d/1_ZCmPI70XSO4YOzg3NjfftNfsfbXj9Vk51qXqqoinhY/edit?tab=t.0)
